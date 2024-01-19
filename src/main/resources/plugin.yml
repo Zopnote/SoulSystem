@@ -1,0 +1,14 @@
+name: SoulSystem
+version: 2.0
+main: eu.smpmc.soul.Soul
+description: The SoulSystem provides mod-like features for improving the player experience.
+load: STARTUP
+depend: [WorldGuard, WorldEdit]
+authors:
+  - discord - @zopnote
+  - discord - @im.elia
+api-version: 1.13
+commands:
+  soul:
+    description: Basecommand.
+    usage: /soul <arg>
