@@ -14,3 +14,4 @@ All have the same Active with a slight difference in damage, etc.
 The Soul Sword, on right-click, has the ability to mark all entities and players within a radius of 40 blocks, making them glow. While sneaking, there is a dash that allows for flying.
 
 ## **More information in the Wiki**
+https://github.com/Zopnote/SoulSystem/wiki
